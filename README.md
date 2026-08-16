@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 
-[![PR Merged](https://img.shields.io/badge/PR_#87314-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NousResearch/hermes-agent/pull/87314)
+[![PR Merged](https://img.shields.io/badge/PR_%2387314-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NousResearch/hermes-agent/pull/87314)
 [![Repo](https://img.shields.io/badge/NousResearch-hermes--agent-blue?style=flat-square&logo=github)](https://github.com/NousResearch/hermes-agent)
