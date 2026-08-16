@@ -1,7 +1,7 @@
-## Hi there 👋
 
 <!--
 **YappLeCunt/YappLeCunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋
+
+
+
+[![PR Merged](https://img.shields.io/badge/PR_#87314-Merged-8957e5?style=flat-square&logo=github)](https://github.com/NousResearch/hermes-agent/pull/87314)
+[![Repo](https://img.shields.io/badge/NousResearch-hermes--agent-blue?style=flat-square&logo=github)](https://github.com/NousResearch/hermes-agent)
